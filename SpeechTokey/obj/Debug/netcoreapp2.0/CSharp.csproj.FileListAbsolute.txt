@@ -1,0 +1,10 @@
+/home/qianze/Desktop/CSharp/test/bin/Debug/netcoreapp2.0/CSharp.deps.json
+/home/qianze/Desktop/CSharp/test/bin/Debug/netcoreapp2.0/CSharp.runtimeconfig.json
+/home/qianze/Desktop/CSharp/test/bin/Debug/netcoreapp2.0/CSharp.runtimeconfig.dev.json
+/home/qianze/Desktop/CSharp/test/bin/Debug/netcoreapp2.0/CSharp.dll
+/home/qianze/Desktop/CSharp/test/bin/Debug/netcoreapp2.0/CSharp.pdb
+/home/qianze/Desktop/CSharp/test/obj/Debug/netcoreapp2.0/CSharp.csproj.CoreCompileInputs.cache
+/home/qianze/Desktop/CSharp/test/obj/Debug/netcoreapp2.0/CSharp.AssemblyInfoInputs.cache
+/home/qianze/Desktop/CSharp/test/obj/Debug/netcoreapp2.0/CSharp.AssemblyInfo.cs
+/home/qianze/Desktop/CSharp/test/obj/Debug/netcoreapp2.0/CSharp.dll
+/home/qianze/Desktop/CSharp/test/obj/Debug/netcoreapp2.0/CSharp.pdb
